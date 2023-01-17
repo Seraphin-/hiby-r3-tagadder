@@ -1,0 +1,6 @@
+[submodule "taglib"]
+	path = taglib
+	url = git@github.com:taglib/taglib.git
+[submodule "tfblib"]
+	path = tfblib
+	url = git@github.com:Seraphin-/tfblib.git
